@@ -1,7 +1,7 @@
 ### Hi everyone 👋
   ## Is me Long Bluee
  $ npx @longbluee/cli
-⸨░░░░░░░░⠂⠂⠂⠂⠂⠂⸩ ⠴ fetchMetadata: resolveWithNewModule @longbluee/cli@1.3.337
+⸨░░░░░░░░⠂⠂⠂⠂⠂⠂⸩ ⠴ fetchMetadata: resolveWithNewModule @longbluee/cli@11.20.032006
 
     __      ____   __     __    ____           ____        __      _    _  _____
     | |    /    \  | \     |   /               |   |_      | |     |    |  |
