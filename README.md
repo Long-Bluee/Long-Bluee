@@ -3,8 +3,6 @@
 <!--I'm a music boy
 **Long-Bluee/Long-Bluee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Music editon
 - 🌱 I’m currently learning Tran Hung Dao hight school
 - 👯 I’m looking to collaborate on with Elon Musk
