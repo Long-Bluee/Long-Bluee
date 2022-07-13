@@ -3,11 +3,12 @@
  $ npx @longbluee/cli
 ⸨░░░░░░░░⠂⠂⠂⠂⠂⠂⸩ ⠴ fetchMetadata: resolveWithNewModule @longbluee/cli@1.3.337
 
-    __      ____   __           ____           ____        __              _____
+    __      ____   __     __    ____           ____        __      _    _  _____
     | |    /    \  | \     |   /               |   |_      | |     |    |  |
     |_|    |    |  |  \    |   |    ___        |     |_    |_|     |    |  |____
     | |__  |    |  |   \   |   |     |         |       |   | |__   |    |  | 
     |____| \ ___/  |    \__|   \_____/         |--------|  |____|  \____/  |____
+                                          
     
               Front-End Developer • Bostonian • Freelance Open-Sourcerer
 
