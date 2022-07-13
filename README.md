@@ -1,5 +1,24 @@
 ### Hi everyone 👋
   ## Is me Long Bluee
+ $ npx @longbluee/cli
+⸨░░░░░░░░⠂⠂⠂⠂⠂⠂⸩ ⠴ fetchMetadata: resolveWithNewModule @longbluee/cli@1.3.337
+
+    __      ____   __           ____           ____        __              _____
+    | |    /    \  | \     |   /               |   |_      | |     |    |  |
+    |_|    |    |  |  \    |   |    ___        |     |_    |_|     |    |  |____
+    | |__  |    |  |   \   |   |     |         |       |   | |__   |    |  | 
+    |____| \ ___/  |    \__|   \_____/         |--------|  |____|  \____/  |____
+    
+              Front-End Developer • Bostonian • Freelance Open-Sourcerer
+
+❯ 🏡 facebook           https://www.facebook.com/longbluee03
+
+❯ 📬 Email             phamvulong20032006@gmail.com
+
+❯ 🐦 Twitter           not found
+
+❯ 📱 SMS               not information
+
   # 💫About Me :
  🔭 I’m currently working on Music editon
  
