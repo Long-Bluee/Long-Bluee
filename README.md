@@ -1,13 +1,9 @@
 ### Hi everyone 👋
-  ## Is me Long Bluee
- $ npx @longbluee/cli
-⸨░░░░░░░░⠂⠂⠂⠂⠂⠂⸩ ⠴ fetchMetadata: resolveWithNewModule @longbluee/cli@11.20.03.2006
+  ## Is me Xanh la
+ $ npx @xanhla03/cli
+⸨░░░░░░░░⠂⠂⠂⠂⠂⠂⸩ ⠴ fetchMetadata: resolveWithNewModule @xanhla/cli@11.20.03.2006
 
-    __      ____   __     __    ____           ____        __      _    _  _____   _____
-    | |    /    \  | \     |   /               |   |_      | |     |    |  |       |
-    |_|    |    |  |  \    |   |    ___        |     |_    |_|     |    |  |____   |____
-    | |__  |    |  |   \   |   |     |         |       |   | |__   |    |  |       |
-    |____| \ ___/  |    \__|   \_____/         |________|  |____|  \____/  |____   |____
+
                                           
     
               Front-End Developer • Bostonian • Freelance Open-Sourcerer
